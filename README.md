@@ -3,4 +3,4 @@
 # Quiz Game About Me
 
 1. Game is made on repl.
-2. Enter your answers in small cases only (Case Sensitive).
+2. You can Enter your answers in any case.
